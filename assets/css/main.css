@@ -1568,6 +1568,16 @@
 			height: 231px;
 		}
 
+		.poster {
+			display: inline-block;
+			float: right
+		}
+
+		.description {
+			display: inline-block;
+			float: left
+		}
+
 /* Footer */
 
 	#footer {
