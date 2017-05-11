@@ -1312,7 +1312,7 @@
 					}
 
 					#header nav ul li a:active {
-						background-color: rgba(150, 150, 150, 0.95);
+						background-color: rgba(160, 160, 160, 0.5);
 					}
 
 		#header nav.use-middle:after {
