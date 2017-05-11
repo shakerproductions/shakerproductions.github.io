@@ -1235,6 +1235,10 @@
 				font-size: 2rem;
 			}
 
+		#header .sp-logo {
+			height: 86px;
+		}
+
 		#header .content {
 			border-style: solid;
 			border-color: #ffffff;
