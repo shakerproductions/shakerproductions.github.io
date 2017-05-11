@@ -1576,6 +1576,7 @@
 		.description {
 			display: inline-block;
 			float: left
+			width: 400px;
 		}
 
 /* Footer */
