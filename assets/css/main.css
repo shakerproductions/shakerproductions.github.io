@@ -1499,7 +1499,7 @@
 				opacity: 1;
 			}
 
-			/*#main article .close {
+			#main article .close {
 				display: block;
 				position: absolute;
 				top: 0;
@@ -1537,9 +1537,9 @@
 
 				#main article .close:active:before {
 					background-color: rgba(255, 255, 255, 0.175) !important;
-				}*/
+				}
 
-		/*@media screen and (max-width: 736px) {
+		@media screen and (max-width: 736px) {
 
 			#main article {
 				padding: 3.5rem 2rem 0.5rem 2rem ;
@@ -1553,7 +1553,7 @@
 					background-size: 14px 14px;
 				}
 
-		}*/
+		}
 
 		@media screen and (max-width: 480px) {
 
