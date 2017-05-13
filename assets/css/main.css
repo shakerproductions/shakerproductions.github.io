@@ -1485,7 +1485,8 @@
 			position: relative;
 			width: 40rem;
 			max-width: 100%;
-			background-color: rgba(27, 31, 34, 0.85);
+			background-color: white;
+			border: 1px solid black;
 			border-radius: 4px;
 			opacity: 0;
 		}
@@ -1498,7 +1499,7 @@
 				opacity: 1;
 			}
 
-			#main article .close {
+			/*#main article .close {
 				display: block;
 				position: absolute;
 				top: 0;
@@ -1536,7 +1537,7 @@
 
 				#main article .close:active:before {
 					background-color: rgba(255, 255, 255, 0.175) !important;
-				}
+				}*/
 
 		@media screen and (max-width: 736px) {
 
